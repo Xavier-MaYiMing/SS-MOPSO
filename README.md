@@ -59,9 +59,9 @@ if __name__ == '__main__':
 
 ##### Output:
 
-![Pareto front](/Users/xavier/Desktop/Xavier Ma/个人算法主页/SS-MOPSO/Pareto front.png)
+![](https://github.com/Xavier-MaYiMing/SS-MOPSO/blob/main/Pareto%20front.png)
 
-![Pareto set](/Users/xavier/Desktop/Xavier Ma/个人算法主页/SS-MOPSO/Pareto set.png)
+![](https://github.com/Xavier-MaYiMing/SS-MOPSO/blob/main/Pareto%20set.png)
 
 
 
